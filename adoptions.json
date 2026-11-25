@@ -1,0 +1,90 @@
+[
+  {
+    "AdoptionID": 14,
+    "UniversityID": 100724,
+    "UniversityName": "Cedar Valley University",
+    "BookTitle": "Designing for the Web",
+    "Author": "Lena Ortiz",
+    "CourseCode": "WEB 210",
+    "AdoptionDate": {
+      "$date": "2025-09-03T00:00:00Z"
+    }
+  },
+  {
+    "AdoptionID": 23,
+    "UniversityID": 100817,
+    "UniversityName": "North Harbor College",
+    "BookTitle": "Applied Computer Networks",
+    "Author": "Noah Chen",
+    "CourseCode": "NET 220",
+    "AdoptionDate": {
+      "$date": "2026-01-14T00:00:00Z"
+    }
+  },
+  {
+    "AdoptionID": 8,
+    "UniversityID": 100632,
+    "UniversityName": "Oakridge State University",
+    "BookTitle": "Foundations of Computing",
+    "Author": "Alina Brooks",
+    "CourseCode": "CS 101",
+    "AdoptionDate": {
+      "$date": "2025-08-18T00:00:00Z"
+    }
+  },
+  {
+    "AdoptionID": 19,
+    "UniversityID": 100724,
+    "UniversityName": "Cedar Valley University",
+    "BookTitle": "Database Systems in Practice",
+    "Author": "Isaac Patel",
+    "CourseCode": "CS 305",
+    "AdoptionDate": {
+      "$date": "2025-09-18T00:00:00Z"
+    }
+  },
+  {
+    "AdoptionID": 31,
+    "UniversityID": 100516,
+    "UniversityName": "West River Institute",
+    "BookTitle": "Data Visualization Basics",
+    "Author": "Samira Silva",
+    "CourseCode": "DATA 205",
+    "AdoptionDate": {
+      "$date": "2026-02-12T00:00:00Z"
+    }
+  },
+  {
+    "AdoptionID": 11,
+    "UniversityID": 100817,
+    "UniversityName": "North Harbor College",
+    "BookTitle": "Introduction to Software Design",
+    "Author": "Elliot Ward",
+    "CourseCode": "CS 202",
+    "AdoptionDate": {
+      "$date": "2025-08-25T00:00:00Z"
+    }
+  },
+  {
+    "AdoptionID": 26,
+    "UniversityID": 100724,
+    "UniversityName": "Cedar Valley University",
+    "BookTitle": "Building RESTful APIs",
+    "Author": "Maya Ellis",
+    "CourseCode": "WEB 320",
+    "AdoptionDate": {
+      "$date": "2026-01-20T00:00:00Z"
+    }
+  },
+  {
+    "AdoptionID": 17,
+    "UniversityID": 100632,
+    "UniversityName": "Oakridge State University",
+    "BookTitle": "Human–Computer Interaction",
+    "Author": "Jordan Reed",
+    "CourseCode": "HCI 201",
+    "AdoptionDate": {
+      "$date": "2025-09-11T00:00:00Z"
+    }
+  }
+]
